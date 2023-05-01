@@ -1,0 +1,10 @@
+/* styles.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.game-container {
+    display: flex;
+    /* Add more styles as needed */
+}
