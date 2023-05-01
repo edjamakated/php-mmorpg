@@ -1,3 +1,4 @@
+package old;
 <!-- game.php -->
 <!DOCTYPE html>
 <html lang="en">
